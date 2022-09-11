@@ -124,6 +124,13 @@ Read-Only Memory 라는 이름은 그리 정확한 이름은 아니다. ROM은 �
 </details>
 
 <details>
+<summary>SSD</summary>
+
+고체 상태 드라이브(Solid-State Drive)는 디스크 드라이브 모양의 패키지에 넣은 플래시 메모리와 같다. 플래시 메모리는 점차 낡지만 SSD에는 여러 블록의 쓴 횟수를 기억해서 모든 블록이 가능하면 똑같은 수준으로 낡도록 조정하는 포러세서가 들어 있다.
+
+</details>
+
+<details>
 <summary>산술 논리 장치(ALU)</summary>
 
 산술 논리 장치(ALU)는 CPU의 핵심 부품이다. ALU는 산술 계산, 불리언 대수 및 기타 연산을 수행하는 방법을 알고 있는 장치이다. 명령코드, 피연산자, 결과, 조건 코드 등으로 조작된다.
